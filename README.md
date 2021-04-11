@@ -1,4 +1,4 @@
-# Brain-tumor-detection-by-Deep-learninig
+# Brain-tumor-detection-by-Deep-learning
 #Overview and Objectives
    The main purpose of this project was to build a CNN model that would classify if subject has a tumor or not base on MRI scan. I used the VGG-16 model architecture and weights to train the model for this binary problem. I used accuracy as a metric to justify the model performance which can be defined as:
    Accuracy=[(Number of correclty predicted images)/(Total number of tested images)]×100%
@@ -22,8 +22,7 @@ Application of automated classification techniques using Machine Learning(ML) an
    
  
 #Definition
-
-To Detect and Classify Brain Tumor using, convolutional neural networks(CNN) Transfer learning(TL) as an asset of Deep Learning and to examine the tumor position(segmentation).
+   To Detect and Classify Brain Tumor using, convolutional neural networks(CNN) Transfer learning(TL) as an asset of Deep Learning and to examine the tumor position(segmentation).
 
 
 Done by,
