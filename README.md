@@ -1,5 +1,5 @@
 # Brain-tumor-detection-by-Deep-learning
-                                                        Overview
+                                                           Overview
  
  #Objectives
   
@@ -7,7 +7,7 @@
   
                   Accuracy=  [(Number of correclty predicted images) / (Total number of tested images)] × 100%
 
-Final results look as follows:
+#Final results look as follows:
 
    Set 	Accuracy
    Validation Set = ~88%
